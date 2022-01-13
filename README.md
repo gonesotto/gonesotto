@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gonesotto
+- 👀 I’m interested in becoming a Blockchain Developer but also open to learning any and everything Web Dev.
+- 🌱 I’m currently learning ... HTML (lol), Javascript soon to follow.
+- 💞️ I’m looking to collaborate on anything where I can be of use.
